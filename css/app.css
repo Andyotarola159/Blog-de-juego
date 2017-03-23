@@ -10,6 +10,7 @@
 	border:1px solid gray;
 	margin-bottom: 20px;
 	transition: 0.5s;
+	box-shadow: 2px 2px 2px gray;
 }
 .imagen_juego:hover{
 	transform: scale(1.1);
