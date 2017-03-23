@@ -5,3 +5,7 @@
 .boton{
 	padding-top: : 200px;
 }
+.imagen_juego{
+	border-radius: 10px;
+	border:1px solid gray;
+}
