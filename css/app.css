@@ -8,4 +8,9 @@
 .imagen_juego{
 	border-radius: 10px;
 	border:1px solid gray;
+	margin-bottom: 20px;
+	transition: 0.5s;
+}
+.imagen_juego:hover{
+	transform: scale(1.1);
 }
